@@ -1,0 +1,46 @@
+{
+    "private": true,
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build"
+    },
+    "devDependencies": {
+        "@popperjs/core": "^2.11.6",
+        "@vitejs/plugin-vue": "^5.0.3",
+        "axios": "^0.21",
+        "backend": "0.0.0",
+        "bootstrap": "^5.2.3",
+        "dotenv-webpack": "^8.0.1",
+        "jquery": "^3.7.1",
+        "laravel-mix": "^6.0.6",
+        "laravel-vite-plugin": "^1.0.1",
+        "lodash": "^4.17.19",
+        "popper.js": "^1.12",
+        "postcss": "^8.1.14",
+        "resolve-url-loader": "^2.3.1",
+        "sass": "^1.56.1",
+        "sass-loader": "^8.0.0",
+        "sweetalert2": "^11.10.1",
+        "vite": "^5.0.11",
+        "vue": "^3.4.5",
+        "vue-loader": "^17.3.1",
+        "vue-router": "^4.0.13"
+    },
+    "dependencies": {
+        "@ocrv/vue-tailwind-pagination": "0.0.4",
+        "@vue/compiler-sfc": "^3.3.11",
+        "apexcharts": "^3.45.2",
+        "file-upload-with-preview": "^4.1.0",
+        "moment": "^2.29.1",
+        "pinia": "^2.1.7",
+        "summernote": "^0.8.20",
+        "vue-media-upload": "^2.1.2",
+        "vue-select": "^4.0.0-beta.6",
+        "vue-sweetalert2": "^4.3.1",
+        "vue3-apexcharts": "^1.4.4",
+        "vue3-summernote-editor": "^1.0.2",
+        "vue3-treeview": "^0.4.2",
+        "vuex": "^4.0.2"
+    },
+    "type": "module"
+}

@@ -1,0 +1,1 @@
+import{_ as s,o as t,c as n,a as e}from"./app-cpAAYSkm.js";const o={},c={class:"d-flex align-items-center justify-content-center h-100"},a=e("div",{class:"spinner-border",role:"status"},[e("span",{class:"visually-hidden"},"Loading...")],-1),r=[a];function i(_,d){return t(),n("div",c,r)}const f=s(o,[["render",i]]);export{f as C};
